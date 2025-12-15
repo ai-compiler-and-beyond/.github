@@ -1,1 +1,1 @@
-Please read profile/README.md
+Please read [profile/README.md](./profile/README.md)
